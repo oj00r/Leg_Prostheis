@@ -13,7 +13,8 @@ During my bachelor studies, we had to prepare a simple object in Creo. Since I b
 <h2>Project</h2>
 
 <br/> 
-<p align="center"> <img src="./images/servohydraulic_press.png" height="80%" width="80%" alt="Assembly"/> 
+<p align="center"> <img src="./images/assembly_2.png" height="80%" width="80%" alt="Assembly"/> 
+<p align="center"> <img src="./images/assembly_2.png" height="80%" width="80%" alt="Assembly"/> 
 </p> 
 <p align="center"> Figure 1: Assembly of the whole Project. 
 </p>
@@ -32,13 +33,6 @@ During my bachelor studies, we had to prepare a simple object in Creo. Since I b
 <p align="center"> Figure 3: Knee. 
 </p>
 
-<br/> 
-<p align="center"> 
- <img src="./images/compression_test.png" height="80%" width="80%" alt="Compression test"/> </p> 
-<p align="center"> 
- Figure 4: Compression test analysis for samples etched at different times. 
-</p> 
-
 
 <br/> 
 <p align="center"> 
@@ -47,14 +41,13 @@ During my bachelor studies, we had to prepare a simple object in Creo. Since I b
  Figure 4: Foot reconstruction. 
 </p> 
 
-Samples’ weights were analyzed before and after etching (- look Fig 2.), as well as their compression strength. Figure 3 shows an exemplary results of compression test, highlighting the region of plastic deformation, which is unwated in human implants.
 
 
 <h2>Summary</h2>
 
-Doing the thesis on 3D printing introduced me to problems that can occur at every step of manufacturing a product, no matter if it is very popular or niche. In this project, I was able to determine near-optimal conditions, though challenges like particles trapped inside the porous structure remain.
+According to the supervisor of my project: “So now what? Time to print!” Unfortunately, the lack of a 3D printer at that time was the only thing that stopped me. However, I gained experience in projects that are larger and more complex than just a simple bolt. 
 
-I also gained insight into the wide variety of tests and material properties available with current state-of-the-art technology. Overall, I am very glad to have experienced engineering problem worked under a cooperation with scietits at my univeristy, which can only my perspecitve in solving real-world problems :).
+All in all, I am happy with the results, especially for my first project in CAD software.
 
 <h2>Sources</h2>
 General idea: "Designing and Manufacturing of Lower Limb Prosthetic” - https://www.pmu.edu.sa/attachments/academics/pdf/udp/coe/dept/me/16-designing-and-manufacturing-of-lower-limb-prosthetic.pdf
