@@ -66,6 +66,4 @@ General concept: *Designing and Manufacturing of Lower Limb Prosthetic*
 Foot inspiration:
 [https://www.nature.com/articles/s41598-018-23705-8](https://www.nature.com/articles/s41598-018-23705-8)
 
----
-
-Jeśli chcesz, mogę też zrobić wersję bardziej formalną lub bardziej akademicką.
+---ZJeśli chcesz, mogę też zrobić wersję bardziej formalną lub bardziej akademicką.
